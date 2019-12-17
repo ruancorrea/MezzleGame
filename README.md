@@ -21,6 +21,21 @@ Para iniciar um jogo, seleciona-se a opção “Start Game” no menu, logo em s
 Utiliza-se o mouse para manusear as peças a serem escolhidas. Tendo que ao clicar botão direito podemos selecionar ou deselecionar uma peça, e ao segurar o mesmo, podemos move-lo. As  teclas c e v controlam as telas do jogo. Sendo a tecla c designada para a tela de quebra-cabeça e a tecla v designada para a tela do jogo da memória.
 O Objetivo é finalizar o quebra-cabeça.
 
+## Arquitetura em Camadas
+
+![Diagrama em branco](https://user-images.githubusercontent.com/47988061/71023537-b2ef9e80-20e1-11ea-9904-05ee2d06205f.png)
+
+## Diagrana de casos de uso
+
+![Diagrama em branco (1)](https://user-images.githubusercontent.com/47988061/71024261-47a6cc00-20e3-11ea-84be-27d0e61d326c.png)
+
+![Diagrama em branco (3)](https://user-images.githubusercontent.com/47988061/71024294-5a210580-20e3-11ea-9775-c24d6cfd370d.png)
+
+![Diagrama em branco (4)](https://user-images.githubusercontent.com/47988061/71024303-60af7d00-20e3-11ea-95aa-64b259a731f0.png)
+
+## Diagrama de Sequencia
+
+![Diagrama em branco (2)](https://user-images.githubusercontent.com/47988061/71024273-4e354380-20e3-11ea-8f53-c889db10204d.png)
 
 
 ## Sendo desenvolvido por: 
