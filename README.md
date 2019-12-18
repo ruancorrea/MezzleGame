@@ -13,9 +13,9 @@ Para iniciar um jogo, seleciona-se a opção “Start Game” no menu, logo em s
  
 •	Easy – montagem do quebra cabeça em 3x3 e 9 peças no jogo da memória (18 peças no total)
 
-•	Medium – montagem do quebra-cabeça em 6x6 e 36 peças no jogo da memória (72 peças no total)
+•	Medium – montagem do quebra-cabeça em 4x4 e 16 peças no jogo da memória (32 peças no total)
 
-•	Hard – montagem do quebra-cabeça em 9x9 e 81 peças no jogo da memória (162 peças no total)
+•	Hard – montagem do quebra-cabeça em 5x5 e 25 peças no jogo da memória (50 peças no total)
 
 
 Utiliza-se o mouse para manusear as peças a serem escolhidas. Tendo que ao clicar botão direito podemos selecionar ou deselecionar uma peça, e ao segurar o mesmo, podemos move-lo. As  teclas c e v controlam as telas do jogo. Sendo a tecla c designada para a tela de quebra-cabeça e a tecla v designada para a tela do jogo da memória.
