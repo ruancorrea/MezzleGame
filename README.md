@@ -27,13 +27,14 @@ O Objetivo é finalizar o quebra-cabeça.
 
 ## Diagrana de casos de uso
 
-![Diagrama em branco (1)](https://user-images.githubusercontent.com/47988061/71024261-47a6cc00-20e3-11ea-84be-27d0e61d326c.png)
+![01](https://user-images.githubusercontent.com/47988061/71254846-f6792100-230a-11ea-8a7f-de9488c58d43.png)
 
-![Diagrama em branco (3)](https://user-images.githubusercontent.com/47988061/71024294-5a210580-20e3-11ea-9775-c24d6cfd370d.png)
+![02](https://user-images.githubusercontent.com/47988061/71254905-29bbb000-230b-11ea-8143-875c5658966d.png)
 
-![Diagrama em branco (4)](https://user-images.githubusercontent.com/47988061/71024303-60af7d00-20e3-11ea-95aa-64b259a731f0.png)
+![03](https://user-images.githubusercontent.com/47988061/71254915-33451800-230b-11ea-8a4b-28b18361efd7.png)
 
-## Diagrama de Sequencia
+
+## Diagrama de Sequência
 
 ![Diagrama em branco (2)](https://user-images.githubusercontent.com/47988061/71024273-4e354380-20e3-11ea-8f53-c889db10204d.png)
 
