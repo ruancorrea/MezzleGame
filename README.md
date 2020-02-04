@@ -39,6 +39,14 @@ O Objetivo é finalizar o quebra-cabeça.
 ![Diagrama em branco (2)](https://user-images.githubusercontent.com/47988061/71024273-4e354380-20e3-11ea-8f53-c889db10204d.png)
 
 
+![Diagrama em branco (1)](https://user-images.githubusercontent.com/47988061/73780506-5a499300-476d-11ea-9085-d6a4cec72e69.png)
+
+
+## Diagrama de Classes
+
+![Diagrama em branco](https://user-images.githubusercontent.com/47988061/73780332-0ccd2600-476d-11ea-89eb-53696052fb1f.png)
+
+
 ## Sendo desenvolvido por: 
 
   [João Pedro](https://github.com/joaopedrobritot)
