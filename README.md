@@ -1,6 +1,8 @@
-# Projeto de Engenharia de Software
+<div align = "center">
+   <h1>Projeto de Engenharia de Software</h1>
+   <img src = "https://user-images.githubusercontent.com/47988061/70481044-211fda00-1ac0-11ea-902a-25dd01e7bc7a.png"></img>
+</div>
 
-![Mezzle3](https://user-images.githubusercontent.com/47988061/70481044-211fda00-1ac0-11ea-902a-25dd01e7bc7a.png)
 
 Mezzle é um jogo de plataforma 2D. O jogador terá que completar o quebra-cabeça, tendo as peças desse mesmo quebra-cabeça como os elementos do jogo da memória.
 
@@ -21,31 +23,48 @@ Para iniciar um jogo, seleciona-se a opção “Start Game” no menu, logo em s
 Utiliza-se o mouse para manusear as peças a serem escolhidas. Tendo que ao clicar botão direito podemos selecionar ou deselecionar uma peça, e ao segurar o mesmo, podemos move-lo. As  teclas c e v controlam as telas do jogo. Sendo a tecla c designada para a tela de quebra-cabeça e a tecla v designada para a tela do jogo da memória.
 O Objetivo é finalizar o quebra-cabeça.
 
+ 
 ## Arquitetura em Camadas
 
-![Diagrama em branco](https://user-images.githubusercontent.com/47988061/71023537-b2ef9e80-20e1-11ea-9904-05ee2d06205f.png)
+<div align = "center">
+ 
+<img src = "https://user-images.githubusercontent.com/47988061/73843886-45691000-47fe-11ea-8d6a-c1723ad96d0a.png"></img>
 
-## Diagrana de casos de uso
+</div>
 
-![01](https://user-images.githubusercontent.com/47988061/71254846-f6792100-230a-11ea-8a7f-de9488c58d43.png)
+## Diagrama de casos de uso
 
-![02](https://user-images.githubusercontent.com/47988061/71254905-29bbb000-230b-11ea-8143-875c5658966d.png)
+<div align = "center">
 
-![03](https://user-images.githubusercontent.com/47988061/71254915-33451800-230b-11ea-8a4b-28b18361efd7.png)
+![image](https://user-images.githubusercontent.com/47988061/73843959-66c9fc00-47fe-11ea-9773-f26cca4e7c44.png)
+
+![image](https://user-images.githubusercontent.com/47988061/73843983-72b5be00-47fe-11ea-8123-701222f45500.png)
+
+![image](https://user-images.githubusercontent.com/47988061/73844014-7f3a1680-47fe-11ea-9694-cd953e2478d1.png)
+
+</div>
+
 
 
 ## Diagrama de Sequência
+
+<div align = "center">
 
 ![Diagrama em branco (2)](https://user-images.githubusercontent.com/47988061/71024273-4e354380-20e3-11ea-8f53-c889db10204d.png)
 
 
 ![Diagrama em branco (1)](https://user-images.githubusercontent.com/47988061/73780506-5a499300-476d-11ea-9085-d6a4cec72e69.png)
 
+</div>
+
 
 ## Diagrama de Classes
 
+<div align = "center">
+
 ![Diagrama em branco](https://user-images.githubusercontent.com/47988061/73780332-0ccd2600-476d-11ea-89eb-53696052fb1f.png)
 
+</div>
 
 ## Sendo desenvolvido por: 
 
