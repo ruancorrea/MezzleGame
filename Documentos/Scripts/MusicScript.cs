@@ -4,24 +4,27 @@ using UnityEngine.SceneManagement;
 public class MusicScript : MonoBehaviour
 {
     private AudioSource music;
-    private static MusicScript instance = null;
-
-    public static MusicScript Instance
-    {
-        get { return instance; }
-    }
+    private static MusicScript SingleTon = null;
 
     private void Awake()
     {
-        if (instance != null && instance != this)
+        /* Eh necessario usar singleton aqui pois toda vez que voltamos
+         * ao menu principal ela tenta ser instanciada novamente já que
+         * é a cena onde ela foi criada.
+         * Precisamos somente de uma instancia, pois a musica comeca no
+         * menu principal e continua tocando mesmo trocando cenas
+         * se nao usassemos singleton aqui a musica seria duplicada
+         * ocasionando em duas trilhas sonoras tocando ao mesmo tempo.
+        */
+        if (SingleTon != null && SingleTon != this)// verifica se uma nova instacia foi criada
         {
-            Destroy(this.gameObject);
+            Destroy(this.gameObject);// se sim então destroi ela e fica com a anterior
+            // nesse caso destruimos o objeto que foi duplicado ficando somente com
+            // que já existia.
             return;
         }
         else
-        {
-            instance = this;
-        }
+            SingleTon = this;// primeira instancia do objeto
 
         DontDestroyOnLoad(this.gameObject);
         music = GetComponent<AudioSource>();
