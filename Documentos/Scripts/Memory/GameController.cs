@@ -40,6 +40,7 @@ public class GameController : MonoBehaviour, ButtonInterface
 
     void Awake()
     {
+        Screen.SetResolution(1280, 720, true);
         GameObject.Find("Attempts").GetComponent<Text>().text = "Attempts: " + 0;
 
         GridLayoutGroup memoryGrid = GameObject.FindGameObjectWithTag("MemoryGrid").GetComponent<GridLayoutGroup>();
