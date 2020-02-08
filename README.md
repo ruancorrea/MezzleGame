@@ -3,6 +3,8 @@
    <img src = "https://user-images.githubusercontent.com/47988061/70481044-211fda00-1ac0-11ea-902a-25dd01e7bc7a.png"></img>
 </div>
 
+[Arquivo executável disponível aqui para download via .zip](https://github.com/ruancorrea/MezzleGame/blob/master/Documentos/Mezzle%20Game.zip)
+
 
 Mezzle é um jogo de plataforma 2D. O jogador terá que completar o quebra-cabeça com os elementos encontrados no jogo da memória em dado. O jogador vence o jogo caso tenha completado o quebra-cabeça, conseqüentemente, também completará o jogo da memória. No jogo, há a cronometragem do tempo e o acumulo de tentativas para acertar os pares do jogo da memória. Onde, o melhor, e menor, tempo de resolução de cada imagem em cada dificuldade, além do total de tentativas para completar o jogo da memória s]ao armazenados como tempo-recorde.
 
