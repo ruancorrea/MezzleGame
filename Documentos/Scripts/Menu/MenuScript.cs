@@ -45,5 +45,7 @@ public class MenuScript : MonoBehaviour, ButtonInterface
 
     public void ReturnMenu() => Application.Quit();
 
+    private void Awake() => Screen.SetResolution(1280, 720, true);
+
     public void GoTo(string location) => SceneScript.FadeToScene(location);
 }
