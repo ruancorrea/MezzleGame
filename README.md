@@ -6,7 +6,7 @@
 [Arquivo executável disponível aqui para download via .zip](https://github.com/ruancorrea/MezzleGame/blob/master/Documentos/Mezzle%20Game.zip)
 
 
-Mezzle é um jogo de plataforma 2D. O jogador terá que completar o quebra-cabeça com os elementos encontrados no jogo da memória em dado. O jogador vence o jogo caso tenha completado o quebra-cabeça, conseqüentemente, também completará o jogo da memória. No jogo, há a cronometragem do tempo e o acumulo de tentativas para acertar os pares do jogo da memória. Onde, o melhor, e menor, tempo de resolução de cada imagem em cada dificuldade, além do total de tentativas para completar o jogo da memória s]ao armazenados como tempo-recorde.
+Mezzle é um jogo de plataforma 2D. O jogador terá que completar o quebra-cabeça com os elementos encontrados no jogo da memória. O mesmo vence o jogo caso tenha completado o quebra-cabeça, conseqüentemente, também completará o jogo da memória. No jogo, há a cronometragem do tempo e o acúmulo de tentativas para acertar os pares do jogo da memória. Onde, o melhor, e menor, tempo de resolução de cada imagem em cada dificuldade, além do total de tentativas para completar o jogo da memória estarão armazenados como tempo-recorde.
 
 Como motor de jogo (engine) foi utilizado a Unity, para escrever os scripts (códigos) utilizamos o Visual Studio, que se integra com a Unity tendo como a linguagem C#,(pode ser C# ou C++) a linguagem utilizada. Usamos a ferramenta Collaborate da Unity para dar upload nas modificações efetuadas e assim conseguirmos compartilhar o projeto e sempre obter a versão atualizada para darmos prosseguimento ao projeto.
 Podemos facilmente retornar a um ponto anterior utilizando o Collaborate, caso alguma modificação insira algum bug no projeto.
